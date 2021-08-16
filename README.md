@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @shigshigrain
+- I'm japanese.
 - programing(devloping) some tools
 - 🦜 twitter : @tokidoki_rain
       https://twitter.com/tokidoki_rain
